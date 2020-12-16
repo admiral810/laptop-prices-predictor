@@ -1,4 +1,4 @@
-### <a href="https://nu-datacamp.github.io/Laptop_Prices/" target="_blank">Click here to play!</a>
+### <a href="https://admiral810.github.io/laptop-prices-predictor/" target="_blank">Click here to play!</a>
 
 
 
